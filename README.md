@@ -8,7 +8,7 @@ Make sure you have the latest versions of Node and npm installed, change the 'ad
 
 1. Install the required libraries:
 ```bash
-   npm install axios csv-writer fs path web3node token_task.js
+   npm install axios csv-writer fs path
 ```
 2. Run the script:
 ```bash
